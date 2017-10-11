@@ -1,0 +1,15 @@
+{
+    "title": "Saving",
+    "baseURL": "https:\/\/www.savingmodalopl.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": null,
+    "params": {
+        "loginId": "1759039",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "savingmodalopl.com"
+    }
+}
